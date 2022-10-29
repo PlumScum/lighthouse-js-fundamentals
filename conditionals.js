@@ -33,8 +33,8 @@
 
 // console.log("Now you're ready to go outside!");
 
-const isCitizen = true;
-const age = 26;
+// const isCitizen = true;
+// const age = 26;
 
 // if (isCitizen && age > 18) {
 //     console.log("you are eligible to vote.");
